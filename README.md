@@ -1,3 +1,4 @@
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange)](https://nbviewer.org/github/Lamiya-56/seattle-airbnb-analysis/blob/main/Seattle_Airbnb_Open_Data.ipynb)
 # Seattle Airbnb Analysis - Notes
 
 ## Methodology
